@@ -12,14 +12,14 @@ https://docs.sardine.ai/changelogs/ios
 6) Make note of the checksum that is printed from the previous command
 
 ### Update Package.swift
-1) Navigate to the [Package.swift](https://github.com/rzulkoski/swift-sardine/blob/main/Package.swift) file from the repo on Github
+1) Navigate to the [Package.swift](https://github.com/BradPatras/swift-sardine/blob/main/Package.swift) file from the repo on Github
 2) Click "Edit this file" (pencil icon) to edit the file directly in Github
 3) Update the `url` to reference the desired version number
 4) Update the `checksum` to the value printed from the compute-checksum command
 5) Commit changes
 
 ### Create a new release
-1) Navigate to [Releases](https://github.com/rzulkoski/swift-sardine/releases) on the Github repo
+1) Navigate to [Releases](https://github.com/BradPatras/swift-sardine/releases) on the Github repo
 2) Click "Draft a new release"
 3) Click "Choose tag" and enter `v1.2.3` (using desired version number) and click "Create new tag on publish"
 4) Enter the same `v1.2.3` version number as the title of the release
